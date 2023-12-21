@@ -1,0 +1,9 @@
+{
+	"name": "sujithadf21",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ff6577b-9ab8-40fb-afcb-37e0bc87390d",
+		"tenantId": "3a225678-5c57-4332-af60-38965bfdfa1b"
+	}
+}
