@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "sujithadf21"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
