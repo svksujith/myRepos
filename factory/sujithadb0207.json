@@ -1,0 +1,9 @@
+{
+	"name": "sujithadb0207",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7adc9e43-539b-4f6b-9c2d-513a704974ca",
+		"tenantId": "2a880bbd-3982-4b3c-8f8a-4b5899098e88"
+	}
+}
